@@ -1,4 +1,4 @@
-library thebri_segmented_circle_border;
+library thebrio_segmented_circle_border;
 
 import 'dart:math';
 import 'package:flutter/painting.dart';

@@ -17,7 +17,7 @@ A package for creating segmented circle borders in flutter.
 ## Getting started
 Add the package to your ```pubspec.yaml```:
 
-```thebri_segmented_circle_border: 0.0.1```
+```thebrio_segmented_circle_border: 0.0.1```
 
 ## Usage
 
@@ -26,7 +26,7 @@ Add it as a border:
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:thebri_segmented_circle_border/thebri_segmented_circle_border.dart';
+import 'package:thebrio_segmented_circle_border/thebrio_segmented_circle_border.dart';
 
 void main() => runApp(SegmentedCircleBorderExample());
 

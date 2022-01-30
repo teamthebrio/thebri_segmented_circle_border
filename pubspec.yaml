@@ -1,6 +1,6 @@
-name: thebri_segmented_circle_border
+name: thebrio_segmented_circle_border
 description: A package for creating segmented circle borders in flutter.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/teamthebrio
 
 environment:
